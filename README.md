@@ -22,11 +22,7 @@
 
 <p align="center">   </p>
 
-<div align="center">
 
-  <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/86e9affd-2bd0-4018-8aa6-ed5da6791c0f" />
-
-</div>
 
 <div align="center">
 
