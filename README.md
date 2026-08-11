@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  [ꜱᴛʀᴀᴡᴘᴀɢᴇ](https://frittergnash.straw.page)
+  [strawpage](https://frittergnash.straw.page)
 
 </div>
 
