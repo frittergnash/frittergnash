@@ -45,6 +45,8 @@
   <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/032fa809-1f69-4376-8230-eca5791d3dea" />
 
 </div>
+
+<p align="center"> pfp by @dcmm1604 on pin , pursuer icon by @sx9w1 on pin </p>
 <!--
 **frittergnash/frittergnash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
