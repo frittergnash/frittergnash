@@ -12,12 +12,7 @@
 
 </div>
 
-
-<div align="center">
-
-  <img width="270" height="15" alt="image" src="https://github.com/user-attachments/assets/0dd61554-5651-44b7-aa18-a651623feba8" />
-
-</div>
+<p align="center">   </p>
 
 <div align="center">
 
@@ -33,7 +28,11 @@
 
 </div>
 
+<div align="center">
 
+  <img width="270" height="15" alt="image" src="https://github.com/user-attachments/assets/0dd61554-5651-44b7-aa18-a651623feba8" />
+
+</div>
 
 
 <!--
