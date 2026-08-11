@@ -3,6 +3,8 @@
 </p>
 
 <p align="center"> “ 𝘢𝘩𝘩, 𝘧𝘳𝘦𝘴𝘩 𝘮𝘦𝘢𝘵 “ </p>
+
+[strawpage for more info](https://frittergnash.straw.page)
 <!--
 **frittergnash/frittergnash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
