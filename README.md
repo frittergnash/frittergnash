@@ -6,10 +6,8 @@
 
 [ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)
 
-<p style="text-align: center;">
-  <a href="http://example.net/">This link</a> has no
-title attribute.
-</p>
+<p <style="text-align: center;" a href="http://example.net/">This link</a> has no
+title attribute.</p>
 
 
 <!--
