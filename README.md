@@ -7,7 +7,8 @@
 [ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)
 
 <p style="text-align: center;">
-  <a href="https://frittergnash.straw.page">strawpage</a>
+  <a href="http://example.net/">This link</a> has no
+title attribute.
 </p>
 
 
