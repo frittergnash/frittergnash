@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <a [ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)</a>
+  <a ![ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)</a>
 
 </div>
 
