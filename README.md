@@ -4,10 +4,9 @@
 
 <p align="center"> “ 𝘢𝘩𝘩, 𝘧𝘳𝘦𝘴𝘩 𝘮𝘦𝘢𝘵 “ </p>
 
-[ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)
+<p align="center"> ask4prns </p>
 
-<p <style="text-align: center;" a href="http://example.net/">This link</a> has no
-title attribute.</p>
+[ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)
 
 
 <!--
