@@ -47,7 +47,8 @@
 </div>
 
 <p align="center"> pfp by @dcmm1604 on pin , pursuer icon by @sx9w1 on pin </p>
-<!--
+
+
 **frittergnash/frittergnash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
