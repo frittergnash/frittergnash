@@ -7,10 +7,9 @@
 [ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)
 
 <p style="text-align: center;">
-    [strawpage][referencetext]
+    <p><a href="https://frittergnash.straw.page">strawpage</a></p>
 </p>
 
-[referencetext]:https://frittergnash.straw.page
 
 <!--
 **frittergnash/frittergnash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
