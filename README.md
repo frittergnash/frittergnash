@@ -4,6 +4,8 @@
 
 <p align="center"> “ 𝘢𝘩𝘩, 𝘧𝘳𝘦𝘴𝘩 𝘮𝘦𝘢𝘵 “ </p>
 
+<p align="center"> call me fritz or gnash ! </p>
+
 <p align="center"> ask4prns </p>
 
 <div align="center">
