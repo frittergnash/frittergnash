@@ -19,9 +19,9 @@
 
 </div>
 
-<div align=“center”>
-  
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/ce03692c-98c3-46b7-a8c2-0c21d2915e1b" />
+<div align="center">
+
+  <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/032fa809-1f69-4376-8230-eca5791d3dea" />
 
 </div>
 
