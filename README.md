@@ -16,12 +16,6 @@
 
 <div align="center">
 
-  <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/032fa809-1f69-4376-8230-eca5791d3dea" />
-
-</div>
-
-<div align="center">
-
   [ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)
 
 </div>
@@ -46,6 +40,11 @@
 
 </div>
 
+<div align="center">
+
+  <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/032fa809-1f69-4376-8230-eca5791d3dea" />
+
+</div>
 <!--
 **frittergnash/frittergnash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
