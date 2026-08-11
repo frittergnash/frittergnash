@@ -6,7 +6,9 @@
 
 [ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)
 
-<p style="text-align: center;"><a href="https://frittergnash.straw.page">strawpage</a></p>
+<p style="text-align: center;">
+  <a href="https://frittergnash.straw.page">strawpage</a>
+</p>
 
 
 <!--
