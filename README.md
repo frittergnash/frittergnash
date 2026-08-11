@@ -1,4 +1,4 @@
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d1aabe01-3f68-4547-935a-7c63f7121cf7" align=“center” />
+<img align=“center” width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d1aabe01-3f68-4547-935a-7c63f7121cf7" />
 
 <p align="center"> ” ahh, fresh meat “ </p>
 <!--
