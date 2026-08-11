@@ -6,11 +6,11 @@
 
 <p align="center"> ask4prns </p>
 
-<div align="center">
+<p align="center">
 
   <a href="">![ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)</a>
 
-</div>
+</p>
 
 
 
