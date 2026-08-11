@@ -32,14 +32,16 @@
 
 <div align="center">
 
-  <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/86e9affd-2bd0-4018-8aa6-ed5da6791c0f" />
+  <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/032fa809-1f69-4376-8230-eca5791d3dea" />
 
 </div>
 
 <div align="center">
 
-  <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/032fa809-1f69-4376-8230-eca5791d3dea" />
+  <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/86e9affd-2bd0-4018-8aa6-ed5da6791c0f" />
 
 </div>
+
+
 
 <p align="center"> pfp by @dcmm1604 on pin , pursuer icon by @sx9w1 on pin </p>
