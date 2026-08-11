@@ -1,7 +1,7 @@
 <img width="337.6" height="325.2" alt="image" src="https://github.com/user-attachments/assets/d1aabe01-3f68-4547-935a-7c63f7121cf7" />
 
 ~~” ahh, fresh meat “~~
-<p align="center">text</p>
+<p align="center">~~” ahh, fresh meat “~~</p>
 <!--
 **frittergnash/frittergnash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
