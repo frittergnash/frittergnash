@@ -6,7 +6,7 @@
 
 <p align="center"> call me fritz or gnash ! </p>
 
-<p align="center"> a̲s̲k̲4̲p̲r̲n̲s̲ </p>
+<p align="center"> a̶s̶k̶4̶p̶r̶n̶s̶ </p>
 
 <div align="center">
 
