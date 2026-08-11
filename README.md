@@ -16,9 +16,13 @@
 
 <div align="center">
 
-  [ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)
+  [ꜱᴛʀᴀᴡᴘᴀɢᴇ](https://frittergnash.straw.page)
 
 </div>
+
+<div align="center">
+
+  [pronouns.cc](https://pronouns.cc/@frittergnash/edit)
 
 <p align="center">   </p>
 
