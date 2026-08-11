@@ -6,7 +6,13 @@
 
 <p align="center"> ask4prns </p>
 
-[ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)
+<div align="center">
+
+  <a href="">![ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ](https://frittergnash.straw.page)</a>
+
+</div>
+
+
 
 
 <!--
