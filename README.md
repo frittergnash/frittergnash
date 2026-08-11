@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="540" height="612" alt="image" src="https://github.com/user-attachments/assets/cf57966e-14de-4287-8cd4-a557ca1da1dc" />
 
 <!--
 **frittergnash/frittergnash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
