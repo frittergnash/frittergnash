@@ -14,6 +14,8 @@
 
 <p align="center"> a̶s̶k̶4̶p̶r̶n̶s̶ </p>
 
+<p align="center"> minor </p>
+
 <div align="center">
 
   [strawpage](https://frittergnash.straw.page)
