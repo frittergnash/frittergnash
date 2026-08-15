@@ -24,7 +24,7 @@
 
 <div align="center">
 
-  [pronouns.cc](https://pronouns.cc/@frittergnash/edit)
+  [pronouns.cc](https://pronouns.cc/@frittergnash)
 
 <p align="center">   </p>
 
