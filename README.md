@@ -65,7 +65,8 @@
 
 <p align="center"> pfp by @dcmm1604 on pin , pursuer icon found on @sx9w1 pinterest page, not entirely sure if they are the original creator </p>
 
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/2caf11ea-107f-4b0b-82d9-69ebb3219b6f" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/a7854f99-2a26-4545-98a7-9ee977f25fa9" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/65876c36-b105-4e3b-a3fa-0df1bace2397" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/f91bab0b-e8d0-4dd8-86ad-bbe9f1523bd1" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/2caf11ea-107f-4b0b-82d9-69ebb3219b6f" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/a7854f99-2a26-4545-98a7-9ee977f25fa9" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/65876c36-b105-4e3b-a3fa-0df1bace2397" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/f91bab0b-e8d0-4dd8-86ad-bbe9f1523bd1" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/b813548f-9e22-444c-b7e6-21e35f0046fc" />
+
 
 
 
