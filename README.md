@@ -36,6 +36,12 @@
 
 <div align="center">
 
+  [spotify](https://open.spotify.com/user/31d6mdnp7bex6l2ibmyabm6qekmi?si=JOp2t6KlTEWc0OWAb8989A&utm_source=copy-link)
+
+<p align="center">   </p>
+
+<div align="center">
+
   <img width="393" height="13" alt="image" src="https://github.com/user-attachments/assets/82773559-5e89-42bb-9ce4-53ba7a21f28f" />
 
 </div>
