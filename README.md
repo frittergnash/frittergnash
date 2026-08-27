@@ -10,7 +10,7 @@
 
 </div>
 
-<p align="center"> call me fritz or gnash ! </p>
+<p align="center"> call me griffyn, fynn, fritz or gnash ! </p>
 
 <p align="center"> a̶s̶k̶4̶p̶r̶n̶s̶ </p>
 
