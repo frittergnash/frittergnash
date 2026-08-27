@@ -30,7 +30,7 @@
 
 <div align=“center”>
 
-  [pinterest](https://pin.it/2ZMRveduX)
+  [pinterest where im cringe](https://pin.it/2ZMRveduX)
 
 <p align=“center”>   </p>
 
